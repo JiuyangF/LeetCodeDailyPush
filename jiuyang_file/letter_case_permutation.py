@@ -5,3 +5,4 @@ def letterCasePermutation(S):
     """
     answers = []
     for one in S:
+        pass
