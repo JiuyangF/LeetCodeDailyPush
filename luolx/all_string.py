@@ -35,6 +35,7 @@ class Solution:
 
 
 if __name__ == '__main__':
+    Solution.letterCasePermutation('a1bc')
     Solution.letterCasePermutation('a1b2')
     Solution.letterCasePermutation('1a2b')
     Solution.letterCasePermutation('1a2b3c')
