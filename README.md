@@ -8,6 +8,7 @@ LeetCode刷题日常
 2018-11-06 题目：
   AVL平衡二叉树的实现
 
+2018-11-09 题目：
+  https://leetcode.com/problems/shortest-bridge/description/
+  
 
-链接：
-https://pc-shop.xiaoe-tech.com/appti1qD2S44049/video_details?id=v_5b50141c84d52_4nv97X1U
