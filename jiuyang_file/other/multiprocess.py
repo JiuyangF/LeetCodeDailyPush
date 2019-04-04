@@ -18,10 +18,9 @@ class AA(object):
 if __name__ == '__main__':
     aa = AA()
     p = Pool(4)
-
-    for i in range(5):
-        t = p.apply_async(func=aa.task, args=(str(i),))
-
+    s = [2, 4, 6, 8,'sss']
+    for e in s:
+        t = p.apply_async(func=aa.task, args=(str(e),))
     p.close()
     p.join()
     print("done ！  主进程！aa.ab=%s" % aa.ab)
